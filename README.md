@@ -3,6 +3,7 @@
 A web application showcasing the inner workings of sorting algorithms.
 
 To see the live performance of the web application open :- https://milansoni1407.github.io/Sorting-Visualizer/
+
 Implemented algorithms:
 1) Bubble sort
 2) Selection sort
